@@ -1,6 +1,6 @@
 # fooddesign
 
-- [Lab: Youtube](https://www.youtube.com/watch?v=PggsCqnXmFw)
+- [Watch Video On My Youtube Channel](https://www.youtube.com/watch?v=PggsCqnXmFw)
 
 ![](https://i.postimg.cc/DwCdfVSv/5-1.png)
 ![](https://i.postimg.cc/GpHPHMDk/1-1.png)
